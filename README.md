@@ -86,3 +86,13 @@ In the package.json file, ensure the following is reflected:
 ## Screenshots
 
 ![addpet](addpet.png)
+
+## Acknowledgement
+
+* I would not have been able to create this application without the help of my group consisting of:
+    - [Aaron](https://github.com/Wherewolfe35)
+    - [Alex](https://github.com/cloakerwolf)
+    - [Allyson](https://github.com/aholdahl)
+    - [Chris](https://github.com/Chris0Bannon)
+    - [David](https://github.com/dmheisel)
+* I would also like to thank our instructors Dane Smith and Kris Szafranski from [Prime Digital Academy](https://primeacademy.io/) in Minneapolis, 
