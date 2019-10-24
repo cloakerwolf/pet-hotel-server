@@ -29,7 +29,10 @@ If you have not done so already, you will need to install Java:
                 -This runs it once it is compiled.
 
 -Clone the client-side repository.
+[Pet-Hotel-Client](https://github.com/cloakerwolf/pet-hotel-client)
+
 -npm install
+
 -npm start
 
 #### NEW JAVA PROJECT:
