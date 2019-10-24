@@ -85,4 +85,4 @@ In the package.json file, ensure the following is reflected:
     
 ## Screenshots
 
-![addpet](screenshots/addpet.png)
+![addpet](addpet.png)
