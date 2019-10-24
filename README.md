@@ -82,3 +82,7 @@ React setup and startup is the same.
 
 In the package.json file, ensure the following is reflected:
     "proxy": "http://localhost:8080",
+    
+## Screenshots
+
+![addpet](screenshots/addpet.png)
